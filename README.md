@@ -1,5 +1,5 @@
 # portfolio
-# 🧑‍💻 Nandha Kumar S - Portfolio
+# 🧑‍💻 Pratheesha E - Portfolio
 
 Welcome to my personal portfolio website built using **Flask** and hosted on **Render**. This site showcases my skills, projects, resume, and contact information in a modern and responsive format.
 
