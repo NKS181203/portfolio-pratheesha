@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: nandha-kumar-s-portfolio
+    name: pratheesha
     env: python
     buildCommand: ""
     startCommand: gunicorn app:app
