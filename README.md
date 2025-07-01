@@ -3,13 +3,13 @@
 
 Welcome to my personal portfolio website built using **Flask** and hosted on **Render**. This site showcases my skills, projects, resume, and contact information in a modern and responsive format.
 
-🌐 Live Site: [nandha-kumar-s-portfolio.onrender.com](https://nandha-kumar-s-portfolio.onrender.com)
+🌐 Live Site: [pratheesha.onrender.com](https://pratheesha.onrender.com)
 
 ---
 
 ## 📂 Project Structure
 
-portfolio/
+portfolio-pratheesha/
 ├── app.py # Main Flask app
 ├── requirements.txt # Dependencies
 ├── static/ # CSS, images, favicon
@@ -46,7 +46,7 @@ Edit
 
 ```bash
 # Clone the repository
-git clone https://github.com/nandhakumars444/portfolio.git
+git clone https://github.com/NKS181203/portfolio-pratheesha.git
 cd portfolio
 
 # Create virtual environment (optional but recommended)
@@ -75,11 +75,11 @@ You can optionally add a render.yaml for automatic deployment.
 I'm Nandha Kumar S, an Electronics and Communication Engineering graduate passionate about IoT, AI, and software development. This portfolio reflects my journey, academic work, and passion projects.
 
 📫 Contact Me
-✉️ Email: nandhakumars444@gmail.com
+✉️ Email: pratheeshae9@gmail.com
 
 💼 LinkedIn: linkedin.com/in/nandhakumars444
 
-💻 GitHub: github.com/nandhakumars444
+💻 GitHub: github.com/NKS181203
 
 
 📝 License
